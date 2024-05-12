@@ -39,12 +39,14 @@ Here, we fully adhere to the 3D rendering method of [EDGE](https://github.com/St
 python SMPL-to-FBX/Convert.py --input_dir <path to save_motions> --output_dir <path to outputs>
 ```
 # Citation
+```
 @article{luo2024popdg,
   title={POPDG: Popular 3D Dance Generation with PopDanceSet},
   author={Luo, Zhenye and Ren, Min and Hu, Xuecai and Huang, Yongzhen and Yao, Li},
   journal={arXiv preprint arXiv:2405.03178},
   year={2024}
 }
+```
 # Acknowledgements
 We would like to express our deep gratitude to [Li](https://github.com/google-research/mint) for proposing the AIST++ dataset, which served as a template for the construction of PopDanceSet, and we are also immensely thankful to Tseng for [the EDGE model](https://github.com/Stanford-TML/EDGE), which established the foundational framework for POPDG.
 
