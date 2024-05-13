@@ -25,6 +25,7 @@ To test our pre-trained model, please download the weights from [here](https://d
 python test.py --checkpoint <path to checkpoint> --music_dir <path to test music data> --render_dir <optional, path to rendering file> --save_motions
 ```
 Just like training, you can set other testing parameters as needed.
+
 2. Dance quality evaluations:
 Below are the commands to measure the test set metrics PFC, PBC, DIV, and BAS, respectively.
 ```
