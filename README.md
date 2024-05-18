@@ -1,5 +1,5 @@
 # POPDG
-<img src="https://github.com/Luke-Luo1/POPDG/assets/100562982/495c80ac-14c1-4763-9885-9ac7dab75327" alt="LOGO" width="1024" height="300"/>
+![LOGO_final](https://github.com/Luke-Luo1/POPDG/assets/100562982/937c246f-2872-44e7-a8d9-40dd8e6a529f)
 
 # Environment
 ```
