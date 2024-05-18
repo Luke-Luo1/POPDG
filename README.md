@@ -20,16 +20,19 @@ Other configuration parameters are also available in the args.py file, which can
 - Note: POPDG requires a significant amount of VRAM. We trained in a dual A800 GPU environment. If there is insufficient VRAM available, it is crucial to adjust the batch size accordingly.
 # Evaluation
 To test our pre-trained model, please download the weights from [here](https://drive.google.com/file/d/13ZE-x-oKp8SBM7crfANrcZYkW26I3XBZ/view?usp=sharing)(Google Drive).
+
 Step 1. Testing dance generation models：
 ```
 python test.py --checkpoint <path to checkpoint> --music_dir <path to test music data> --render_dir <optional, path to rendering file> --save_motions
 ```
 Just like training, you can set other testing parameters as needed.
+
 Step 2. Extract the kinematic and manual features of all PopDanceSet motions(only do it by once)：
 ```
 python eval/extract_features.py
 ```
 - Note: Remember to extract train and test motions, not only training data. 
+
 Step 3. Dance quality evaluations:
 Below are the commands to measure the test set metrics PFC, PBC, DIV, and BAS, respectively.
 ```
