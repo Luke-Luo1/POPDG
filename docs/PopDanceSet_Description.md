@@ -12,6 +12,8 @@ In the upgraded version of the dataset, there are a total of 305 videos, which a
 
 Compared to the AIST++ dataset, where 85% of dance video durations are shorter than 12 seconds, the dance clips in PopDanceSet are significantly longer.
 
+The [dataset_directory](https://github.com/Luke-Luo1/POPDG/blob/main/dataset_directory) file contains the sources of all dance videos in the PopDanceSet. You can view the dance videos by clicking on the URLs provided within.
+
 # Results
 Four methods have also yielded new results on the upgraded version of PopDanceSet:
 
