@@ -49,5 +49,5 @@ python SMPL-to-FBX/Convert.py --input_dir <path to save_motions> --output_dir <p
 }
 ```
 # Acknowledgements
-We would like to express our deep gratitude to [Li](https://github.com/google-research/mint) for proposing the AIST++ dataset, which served as a template for the construction of PopDanceSet, and we are also immensely thankful to [Tseng for  EDGE ](https://github.com/Stanford-TML/EDGE), which established the foundational framework for POPDG.
+We would like to express our deep gratitude to [Li](https://github.com/google-research/mint) for proposing the AIST++ dataset, which served as a template for the construction of PopDanceSet, and we are also immensely thankful to Tseng for  [EDGE ](https://github.com/Stanford-TML/EDGE), which established the foundational framework for POPDG.
 
