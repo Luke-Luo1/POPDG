@@ -5,7 +5,7 @@ PopDanceSet has undergone a new upgrade. It has phased out some lower-quality da
 | PopDanceSet   | 237   | 12713  | 355 |
 
 In fact, the training set in the AIST++ dataset only totals 13,378 seconds, so from a training perspective, PopDanceSet is essentially on par with AIST++.
-In the upgraded version of the database, there are a total of 305 videos, which are divided into 1,036 video clips. The distribution of video clips by duration is as follows:
+In the upgraded version of the dataset, there are a total of 305 videos, which are divided into 1,036 video clips. The distribution of video clips by duration is as follows:
 | Duration | <12s  | 12-29.5s | >29.5s |
 | ------------- | --------------- | --------------- |--------------- |
 | Number of Clips   | 493   | 529  | 14 |
