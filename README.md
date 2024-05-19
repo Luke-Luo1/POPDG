@@ -21,7 +21,7 @@ accelerate launch train.py --batch_size <batch_size> --epochs 2000 --exp_name <e
 Other configuration parameters are also available in the args.py file, which can be freely adjusted according to training requirements.
 - Note: POPDG requires a significant amount of VRAM. We trained in a dual A800 GPU environment. If there is insufficient VRAM available, it is crucial to adjust the batch size accordingly.
 # Evaluation
-To test our pre-trained model, please download the weights from [here](https://drive.google.com/file/d/13ZE-x-oKp8SBM7crfANrcZYkW26I3XBZ/view?usp=sharing)(Google Drive).
+To test our pre-trained model, please download the weights from [Google Drive](https://drive.google.com/file/d/13ZE-x-oKp8SBM7crfANrcZYkW26I3XBZ/view?usp=sharing).
 
 Step 1. Testing dance generation models：
 ```
