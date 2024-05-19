@@ -25,7 +25,7 @@ To test our pre-trained model, please download the weights from [here](https://d
 
 Step 1. Testing dance generation models：
 ```
-python test.py --checkpoint <path to checkpoint> --music_dir <path to test music data> --render_dir <optional, path to rendering file> --save_motions
+python test.py --checkpoint <path to checkpoint> --save_motions<optional>
 ```
 Just like training, you can set other testing arguments as needed.
 
@@ -43,6 +43,12 @@ python eval/eval_pbc.py --motion_path <path to save_motions>
 python eval/calculate_scores.py
 python eval/calculate_beat_scores.py
 ```
+# Choreographic for wild music
+To choreograph any single or multiple pieces of music, simply place the music into the folder you created. The subsequent steps are exactly the same as those in the testing process：
+```
+python test.py --checkpoint <path to checkpoint> --music_dir <path to test music data> --render_dir <optional, path to rendering file> --save_motions<optional>
+```
+
 # Blender
 Here, we fully adhere to the 3D rendering method of [EDGE](https://github.com/Stanford-TML/EDGE):
 ```
