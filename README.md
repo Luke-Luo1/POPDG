@@ -27,7 +27,7 @@ Step 1. Testing dance generation models：
 ```
 python test.py --checkpoint <path to checkpoint> --music_dir <path to test music data> --render_dir <optional, path to rendering file> --save_motions
 ```
-Just like training, you can set other testing parameters as needed.
+Just like training, you can set other testing arguments as needed.
 
 Step 2. Extract the kinematic and manual features of all PopDanceSet motions(only do it by once)：
 ```
