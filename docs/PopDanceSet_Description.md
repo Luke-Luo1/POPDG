@@ -33,6 +33,7 @@ Although there are inevitable discrepancies between the specific experimental re
 # Dataset Download
 Please visit [here](https://drive.google.com/file/d/11phw8Xxcnx5h4yYQVpLqDdKWSkHpBZuu/view?usp=sharing) to download and unzip the PopDanceSet in './data/' folder. Then we could preprocess the dataset using:
 ```
+cd data
 python create_dataset.py --extract-baseline --extract-jukebox
 ```
 - Note：The 'high_quality_dataset' file contains a list of clips with high dance quality (the dance movements extracted through [HybrIK and HybrIK-X](https://github.com/Jeff-sjtu/HybrIK) are nearly flawless, superior to the extraction quality of other dances in the database). You can adjust the `repeat_count` for data augmentation in the './dataset/load_popdanceset.py' file (a recommended `repeat_count` of 2 is sufficient). This adjustment can make the generated dance movements more stable and smooth, although it will significantly increase the training time.
