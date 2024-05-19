@@ -138,7 +138,7 @@ class PopDanceSet(Dataset):
 
                 # The data augmentation can be determined by setting the repeat_count number. 
                 if base_name in high_quality_dataset:
-                    repeat_count = 1
+                    repeat_count = 0
                 
                 for _ in range(repeat_count):
                     all_pos.append(pos.copy())
