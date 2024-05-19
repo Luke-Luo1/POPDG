@@ -14,6 +14,8 @@ Compared to the AIST++ dataset, where 85% of dance video durations are shorter t
 
 The [dataset_directory](https://github.com/Luke-Luo1/POPDG/blob/main/dataset_directory) file contains the sources of all dance videos in the PopDanceSet. You can view the dance videos by clicking on the URLs provided within.
 
+The [visualize_dataset.ipynb](https://github.com/Luke-Luo1/POPDG/blob/main/visualize_dataset.ipynb) file is used to visualize the dance videos in the PopDanceSet.
+
 # Results
 Four methods have also yielded new results on the upgraded version of PopDanceSet:
 
