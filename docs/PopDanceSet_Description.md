@@ -42,5 +42,5 @@ The entire process will take approximately 11 hours.
 # The pipeline of creating your own dataset
 1. Based on certain criteria, select dance videos that ensure a certain level of quality (as current monocular pose estimation algorithms still struggle with videos featuring rapid changes in camera angles or incomplete visibility of the dancer’s body).
 2. Utilize monocular pose estimation algorithms to extract dancer's pose features. There are two implementation paths: one is through algorithms that directly estimate poses in the SMPL human body format; the other is through algorithms estimating other body format poses, which are then converted to the SMPL format.
-3. Pay attention to the extraction results; the most important data include the root joint's 3D position, the pose data of the body joints, and the camera's scaling dimensions.
+3. Pay attention to the extraction results; the most important data include the root joint's 3D position, the pose data of the body joints, and the camera's scaling parameter.
 4. Visualize and render the extraction results to discard any videos where the dance pose extraction is not satisfactory (this step is also very important as a measure to ensure the quality of the dataset).
