@@ -36,6 +36,7 @@ Please visit [here](https://drive.google.com/file/d/11phw8Xxcnx5h4yYQVpLqDdKWSkH
 cd data
 python create_dataset.py --extract-baseline --extract-jukebox
 ```
+The entire process will take approximately 11 hours.
 - Note：The 'high_quality_dataset' file contains a list of clips with high dance quality (the dance movements extracted through [HybrIK and HybrIK-X](https://github.com/Jeff-sjtu/HybrIK) are nearly flawless, superior to the extraction quality of other dances in the database). You can adjust the `repeat_count` for data augmentation in the './dataset/load_popdanceset.py' file (a recommended `repeat_count` of 2 is sufficient). This adjustment can make the generated dance movements more stable and smooth, although it will significantly increase the training time.
 
 # The pipeline of creating your own dataset
