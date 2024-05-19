@@ -31,7 +31,7 @@ Although there are inevitable discrepancies between the specific experimental re
 - Note：In terms of experimental effectiveness, iDDPM generates notably smoother dance movements compared to other generative frameworks when dealing with data of compromised quality (since the dance pose data in PopDanceSet are derived solely from monocular pose estimation algorithms coupled with manual filtering, which inherently lacks the quality of data extracted using motion capture device and multi-position cameras). This is particularly beneficial in scenarios where high-end equipment is lacking, and also enhances the tolerance for data quality variations.
 
 # Dataset Download
-Please visit [here](https://drive.google.com/file/d/11phw8Xxcnx5h4yYQVpLqDdKWSkHpBZuu/view?usp=sharing) to download and unzip the PopDanceSet in './data/' folder. Then we could preprocess the dataset using:
+Please visit [Google Drive](https://drive.google.com/file/d/11phw8Xxcnx5h4yYQVpLqDdKWSkHpBZuu/view?usp=sharing) to download and unzip the PopDanceSet in './data/' folder. Then we could preprocess the dataset using:
 ```
 cd data
 python create_dataset.py --extract-baseline --extract-jukebox
