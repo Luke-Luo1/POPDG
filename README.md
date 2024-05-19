@@ -50,7 +50,7 @@ python test.py --checkpoint <path to checkpoint> --music_dir <path to test music
 ```
 
 # Blender
-Here, we fully adhere to the 3D rendering method of [EDGE](https://github.com/Stanford-TML/EDGE):
+The rendering process in POPDG is essentially the same as with previous models. First, download a model which you prefer from [Mixamo](https://www.mixamo.com/#/) (an example rig ybot.fbx is provided in the SMPL-to-FBX folder). Then, by running the following code, convert the saved dance motions (pkl files) into FBX files, which could then be imported into Blender for rendering.
 ```
 python SMPL-to-FBX/Convert.py --input_dir <path to save_motions> --output_dir <path to outputs>
 ```
