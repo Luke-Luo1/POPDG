@@ -18,9 +18,13 @@ PopDanceSet has been updated! For new dataset information, experimental results,
 
 Below is a demo showcase of part of the PopDanceSet:
 
-![alt text](https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif)
-
 <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270">
+
+<figure>
+  <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270" alt="Demo GIF">
+  <figcaption><strong>Demo 1:</strong> Basic Dance Moves - This demo showcases basic dance moves extracted using our model.</figcaption>
+</figure>
+
 
 
 # Training
