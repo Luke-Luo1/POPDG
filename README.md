@@ -16,17 +16,9 @@ The successful execution of the entire project depends on the following librarie
 # PopDanceSet
 PopDanceSet has been updated! For new dataset information, experimental results, and download methods, please see [docs/PopDanceSet_Description.md](https://github.com/Luke-Luo1/POPDG/blob/main/docs/PopDanceSet_Description.md)
 
-Below is a demo showcase of part of the PopDanceSet:
+Below is a visualization rendering demo of a small selection of dance genres from the PopDanceSet:
 
 <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270">
-
-<div align="center">
-  <figure>
-    <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270" alt="Demo GIF">
-    <figcaption><strong>KPOP: (까탈레나)</strong></figcaption>
-  </figure>
-</div>
-
 
 # Training
 Once the PopDanceSet data has been processed, we can commence with the training:
