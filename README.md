@@ -22,7 +22,7 @@ Below is a demo showcase of part of the PopDanceSet:
 
 <figure>
   <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270" alt="Demo GIF">
-  <figcaption><strong>Demo 1:</strong> Basic Dance Moves - This demo showcases basic dance moves extracted using our model.</figcaption>
+  <figcaption><strong>KPOP(까탈레나)</strong> </figcaption>
 </figure>
 
 
