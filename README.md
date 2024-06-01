@@ -20,6 +20,9 @@ Below is a demo showcase of part of the PopDanceSet:
 
 ![alt text](https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif)
 
+<img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="200">
+
+
 # Training
 Once the PopDanceSet data has been processed, we can commence with the training:
 ```
