@@ -15,7 +15,9 @@ The successful execution of the entire project depends on the following librarie
 - [wine](https://www.winehq.org) 
 # PopDanceSet
 PopDanceSet has been updated! For new dataset information, experimental results, and download methods, please see [docs/PopDanceSet_Description.md](https://github.com/Luke-Luo1/POPDG/blob/main/docs/PopDanceSet_Description.md)
+
 Below is a demo showcase of part of the PopDanceSet:
+
 ![alt text](https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif)
 
 # Training
