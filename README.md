@@ -18,7 +18,8 @@ PopDanceSet has been updated! For new dataset information, experimental results,
 
 Below is a visualization rendering demo of a small selection of dance genres from the PopDanceSet:
 
-<img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270">
+<img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_3.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_4.gif" width="270">
+<img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_5.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_6.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_7.gif" width="270"> 
 
 # Training
 Once the PopDanceSet data has been processed, we can commence with the training:
