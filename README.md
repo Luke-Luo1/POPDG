@@ -20,10 +20,12 @@ Below is a demo showcase of part of the PopDanceSet:
 
 <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270"> <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270">
 
-<figure style="text-align: center;">
-  <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270" alt="Demo GIF">
-  <figcaption><strong>KPOP: (까탈레나)</strong></figcaption>
-</figure>
+<div align="center">
+  <figure>
+    <img src="https://github.com/Luke-Luo1/POPDG/blob/main/docs/demo_1.gif" width="270" alt="Demo GIF">
+    <figcaption><strong>KPOP: (까탈레나)</strong></figcaption>
+  </figure>
+</div>
 
 
 # Training
