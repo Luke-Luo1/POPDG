@@ -1,5 +1,5 @@
 title: "POPDG: Popular 3D Dance Generation with PopDanceSet"
-description: ｜
+description: |
   Zhenye Luo, Min Ren, Xuecai Hu, Yongzhen Huang, Li Yao
   Beijing Normal University
 # baseurl: ""
@@ -11,5 +11,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Other configurations
 markdown: kramdown
 highlighter: rouge
-show_downloads: true
+show_downloads: false
+
+
 
