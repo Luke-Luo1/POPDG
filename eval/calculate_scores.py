@@ -6,10 +6,9 @@ from scipy.spatial.transform import Rotation as R
 from scipy import linalg
 
 # See https://github.com/google/aistplusplus_api/ for installation 
-# from aist_plusplus.features.kinetic import extract_kinetic_features
-# from aist_plusplus.features.manual import extract_manual_features
+
 from features.kinetic import extract_kinetic_features
-from eval.features.manual import extract_manual_features
+from features.manual import extract_manual_features
 
 import pickle
 
@@ -175,7 +174,7 @@ if __name__ == "__main__":
     for result_file in tqdm.tqdm(result_files):
         with open(result_file, 'rb') as file:
             data = pickle.load(file)
-        result_motion = data["full_pose"]  # [1, 120 + 1200, 225]
+        result_motion = data["full_pose"]  
         # visualize(result_motion, smpl)
         result_features["kinetic"].append(
             extract_feature(result_motion, "kinetic"))
