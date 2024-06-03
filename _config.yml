@@ -1,6 +1,7 @@
 title: "POPDG: Popular 3D Dance Generation with PopDanceSet"
-description: >-
+description: ｜
   Zhenye Luo, Min Ren, Xuecai Hu, Yongzhen Huang, Li Yao
+  Beijing Normal University
 # baseurl: ""
 # url: "https://luke-luo1.github.io/POPDG"
 
@@ -11,10 +12,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 markdown: kramdown
 highlighter: rouge
 show_downloads: true
-
-# title: POPDG
-# description: >-
-#   A brief description of the POPDG project.
-# show_downloads: true
-# remote_theme: pages-themes/cayman@v0.2.0
 
