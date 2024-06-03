@@ -1,10 +1,10 @@
-title: Your Project Title
-description: >- # this means to ignore newlines until "baseurl:"
-  A brief description of your project.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://luke-luo1.github.io/POPDG/" # the base hostname & protocol for your site
+title: POPDG
+description: >-
+  A brief description of the POPDG project.
+baseurl: ""
+url: "https://luke-luo1.github.io/POPDG"
 
-theme: Cayman
+theme: jekyll-theme-cayman
 
 # Other configurations
 markdown: kramdown
