@@ -76,9 +76,11 @@ layout: default
 1. The background music for Video 2 is: ロマンティックあげるよ;
 1. The background music for Video 3 is: 魔訶不思議アドベンチャー；
 
-<video autoplay controls muted loop width="50%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_1_Clip_2.mp4" type="video/mp4">
-</video>
+<div class="center">
+  <video autoplay controls muted loop width="50%">
+    <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_1_Clip_2.mp4" type="video/mp4">
+  </video>
+</div>
 
 <video autoplay controls muted loop width="50%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_2_Clip_2.mp4" type="video/mp4">
