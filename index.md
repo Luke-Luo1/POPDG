@@ -76,22 +76,29 @@ layout: default
   <video autoplay controls muted loop width="50%">
     <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_1_Clip_2.mp4" type="video/mp4">
   </video>
-  background music: DAN DAN 心魅かれてく;
+</div>
+<div class="center">
+  background music: DAN DAN 心魅かれてく
 </div>
 
 <div class="center">
   <video autoplay controls muted loop width="50%">
     <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_2_Clip_2.mp4" type="video/mp4">
   </video>
-  background music: ロマンティックあげるよ;
+</div>
+<div class="center">
+  background music: ロマンティックあげるよ
 </div>
 
 <div class="center">
   <video autoplay controls muted loop width="50%">
     <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/test_dragonball_3_Clip_2.mp4" type="video/mp4">
   </video>
-  background music: 魔訶不思議アドベンチャーよ;
 </div>
+<div class="center">
+  background music: 魔訶不思議アドベンチャーよ
+</div>
+
 
 * * *
 
