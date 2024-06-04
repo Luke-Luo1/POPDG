@@ -21,6 +21,7 @@ layout: default
   Generating dances that are both lifelike and well-aligned with music continues to be a challenging task in the cross-modal domain. This paper introduces PopDanceSet, the first dataset tailored to the preferences of young audiences, enabling the generation of aesthetically oriented dances. And it surpasses the AIST++ dataset in music genre diversity and the intricacy and depth of dance movements. Moreover, the proposed POPDG model within the iDDPM framework enhances dance diversity and, through the Space Augmentation Algorithm, strengthens spatial physical connections between human body joints, ensuring that increased diversity does not compromise generation quality. A streamlined Alignment Module is also designed to improve the temporal alignment between dance and music. Extensive experiments show that POPDG achieves SOTA results on two datasets. Furthermore, the paper also expands on current evaluation metrics. The dataset and code are available at <a href="https://github.com/Luke-Luo1/POPDG">https://github.com/Luke-Luo1/POPDG</a>.
 </div>
 
+* * *
 
 <div class="center">
   <h1>PopDanceSet</h1>
@@ -30,24 +31,26 @@ layout: default
   We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from <a href="https://www.bilibili.com/v/dance/">Bilibili</a> (China's most popular video platform among young people). Below are a few rendered examples of dance genres from the PopDanceSet:
 </div>
 
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/1.mp4" type="video/mp4">
 </video>
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/3.mp4" type="video/mp4">
 </video>
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/4.mp4" type="video/mp4">
 </video>
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/5.mp4" type="video/mp4">
 </video>
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/6.mp4" type="video/mp4">
 </video>
-<video autoplay controls muted loop width="30%">
+<video autoplay controls muted loop width="32%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/7.mp4" type="video/mp4">
 </video>
+
+* * *
 
 <div class="center">
   <h1>Pipeline</h1>
