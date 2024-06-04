@@ -76,26 +76,37 @@ layout: default
   <video autoplay controls muted loop width="50%">
     <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_1_Clip_2.mp4" type="video/mp4">
   </video>
-</div>
-<div class="center">
   background music: DAN DAN 心魅かれてく;
 </div>
 
-<video autoplay controls muted loop width="50%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_2_Clip_2.mp4" type="video/mp4">
-</video>
 <div class="center">
+  <video autoplay controls muted loop width="50%">
+    <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/dragonball_2_Clip_2.mp4" type="video/mp4">
+  </video>
   background music: ロマンティックあげるよ;
 </div>
 
-<video autoplay controls muted loop width="50%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/test_dragonball_3_Clip_2.mp4" type="video/mp4">
-</video>
 <div class="center">
+  <video autoplay controls muted loop width="50%">
+    <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/test_dragonball_3_Clip_2.mp4" type="video/mp4">
+  </video>
   background music: 魔訶不思議アドベンチャーよ;
 </div>
 
 * * *
+
+<div class="center">
+  <h1>Citation</h1>
+</div>
+
+```
+@article{luo2024popdg,
+  title={POPDG: Popular 3D Dance Generation with PopDanceSet},
+  author={Luo, Zhenye and Ren, Min and Hu, Xuecai and Huang, Yongzhen and Yao, Li},
+  journal={arXiv preprint arXiv:2405.03178},
+  year={2024}
+}
+```
 
 ## Header 2
 
