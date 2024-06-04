@@ -56,6 +56,10 @@ layout: default
   <h1>Pipeline</h1>
 </div>
 
+<div class="center">
+  <h1>Video Demo(In memory of the author of Dragon Ball, Mr. Toriyama Akira 鳥山 明)</h1>
+</div>
+
 ## Header 2
 
 > This is a blockquote following a header.
