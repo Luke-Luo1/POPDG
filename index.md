@@ -33,6 +33,9 @@ layout: default
 <video width="270" controls>
   <source src="https://github.com/Luke-Luo1/website/blob/main/static/demo_1.mp4" type="video/mp4">
 </video>
+<video autoplay controls muted loop width="100%">
+  <source src="https://github.com/Luke-Luo1/website/blob/main/static/demo_1.mp4" type="video/mp4">
+</video>
 
 ## Header 2
 
