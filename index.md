@@ -35,19 +35,19 @@ layout: default
   <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/0c93f2c5-6c07-48e1-bbe8-61805beb6f6b" type="video/mp4">
 </video>
 <video autoplay controls muted loop width="32%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/3.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/5db8a21e-62b2-49d3-9ec3-49a61b57dac1" type="video/mp4">
 </video>
 <video autoplay controls muted loop width="32%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/4.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/15fcdf5a-8d1f-45d1-80cf-78c55d81bb34" type="video/mp4">
 </video>
 <video autoplay controls muted loop width="32%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/5.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/760a1562-8139-4694-96dc-f8cc2dc4378e" type="video/mp4">
 </video>
 <video autoplay controls muted loop width="32%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/6.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/c8baa595-6893-4f0d-9d0b-d9dd43d1709c" type="video/mp4">
 </video>
 <video autoplay controls muted loop width="32%">
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/7.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/1223e84e-4f39-4b9f-bd91-c244fb86611b" type="video/mp4">
 </video>
 
 * * *
@@ -92,13 +92,12 @@ layout: default
 
 <div class="center">
   <video autoplay controls muted loop width="50%">
-    <source src="https://github.com/Luke-Luo1/website/releases/download/dragonball/test_dragonball_3_Clip_2.mp4" type="video/mp4">
+    <source src="https://github.com/Luke-Luo1/POPDG/assets/100562982/07e1719f-9376-48cc-93d1-fd2c0303ccc8" type="video/mp4">
   </video>
 </div>
 <div class="center">
   background music: 魔訶不思議アドベンチャーよ
 </div>
-
 
 * * *
 
