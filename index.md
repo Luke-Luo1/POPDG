@@ -30,11 +30,11 @@ layout: default
   We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from <a href="https://www.bilibili.com/v/dance/">Bilibili</a> (China's most popular video platform among young people). Below are a few rendered examples of dance genres from the PopDanceSet:
 </div>
 
-<video width="270" controls>
-  <source src="https://github.com/Luke-Luo1/website/blob/main/static/demo_1.mp4" type="video/mp4">
-</video>
-<video autoplay controls muted loop width="100%">
+<video autoplay controls muted loop width="25%">
   <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/1.mp4" type="video/mp4">
+</video>
+<video autoplay controls muted loop width="25%">
+  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/2.mp4" type="video/mp4">
 </video>
 
 ## Header 2
