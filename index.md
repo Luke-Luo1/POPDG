@@ -22,8 +22,8 @@ There should be whitespace between paragraphs.
 </div>
 
 <div class="justify">
-  Generating dances that are both lifelike and well-aligned with music continues to be a challenging task in the cross-modal domain. This paper introduces PopDanceSet, the first dataset tailored to the preferences of young audiences, enabling the generation of aesthetically oriented dances. And it surpasses the AIST++ dataset in music genre diversity and the intricacy and depth of dance movements. Moreover, the proposed POPDG model within the iDDPM framework enhances dance diversity and, through the Space Augmentation Algorithm, strengthens spatial physical connections between human body joints, ensuring that increased diversity does not compromise generation quality. A streamlined Alignment Module is also designed to improve the temporal alignment between dance and music. Extensive experiments show that POPDG achieves SOTA results on two datasets. Furthermore, the paper also expands on current evaluation metrics. The dataset and code are available at <a href="https://github.com/Luke-Luo1/POPDG">https://github.com/Luke-Luo1/POPDG</a> 
-</div>[https://github.com/Luke-Luo1/POPDG](https://github.com/Luke-Luo1/POPDG).
+  Generating dances that are both lifelike and well-aligned with music continues to be a challenging task in the cross-modal domain. This paper introduces PopDanceSet, the first dataset tailored to the preferences of young audiences, enabling the generation of aesthetically oriented dances. And it surpasses the AIST++ dataset in music genre diversity and the intricacy and depth of dance movements. Moreover, the proposed POPDG model within the iDDPM framework enhances dance diversity and, through the Space Augmentation Algorithm, strengthens spatial physical connections between human body joints, ensuring that increased diversity does not compromise generation quality. A streamlined Alignment Module is also designed to improve the temporal alignment between dance and music. Extensive experiments show that POPDG achieves SOTA results on two datasets. Furthermore, the paper also expands on current evaluation metrics. The dataset and code are available at <a href="https://github.com/Luke-Luo1/POPDG">https://github.com/Luke-Luo1/POPDG</a>.
+</div>
 
 
 <div class="center">
@@ -31,8 +31,9 @@ There should be whitespace between paragraphs.
 </div>
 
 <div class="justify">
-  We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from [the Bilibili website](https://www.bilibili.com/v/dance/?spm_id_from=333.1007.0.0). Below are a few rendered examples of dance genres from the PopDanceSet:
+  We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from <a href="https://www.bilibili.com/v/dance/?spm_id_from=333.1007.0.0">Bilibili</a>(China's most popular video platform among young people). Below are a few rendered examples of dance genres from the PopDanceSet:
 </div>
+
 
 ## Header 2
 
