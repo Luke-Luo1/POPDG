@@ -56,6 +56,9 @@ layout: default
   <h1>Pipeline</h1>
 </div>
 
+<div class="justify">
+  The core creative points of POPDG include three main aspects: the first is to enhance the spatial connection between various joints of the upper body and the root joint (in SMPL format) through the Space Augmentation Algorithm(in DS-Attn); the second is to maintain a balance between the quality and diversity of dance generation using iDDPM; and the third is to design a streamlined Alignment Module to enhance the match between music and dance.
+</div>
 * * *
 
 <div class="center">
