@@ -31,7 +31,7 @@ layout: default
 </div>
 
 <video width="270" controls>
-  <source src="https://github.com/Luke-Luo1/website/releases/download/dataset/1.mp4" type="video/mp4">
+  <source src="https://github.com/Luke-Luo1/website/blob/main/static/demo_1.mp4" type="video/mp4">
 </video>
 
 ## Header 2
