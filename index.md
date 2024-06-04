@@ -11,10 +11,6 @@ layout: default
   }
 </style>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
 **People Prefer, We generate!** A brand new aesthetically oriented music-dance dataset: PopDanceSet, combined with POPDG, let's generate the most popular dances of the moment!
 
 <div class="center">
@@ -31,9 +27,9 @@ There should be whitespace between paragraphs.
 </div>
 
 <div class="justify">
-  We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from <a href="https://www.bilibili.com/v/dance/?spm_id_from=333.1007.0.0">Bilibili</a>(China's most popular video platform among young people). Below are a few rendered examples of dance genres from the PopDanceSet:
+  We have constructed the PopDanceSet, a database of popular dances loved by the masses, by building a popularity function to filter hot dance videos from <a href="https://www.bilibili.com/v/dance/">Bilibili</a> (China's most popular video platform among young people). Below are a few rendered examples of dance genres from the PopDanceSet:
 </div>
-
+<iframe width="270" src="https://github.com/Luke-Luo1/website/releases/download/dataset/1.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Header 2
 
