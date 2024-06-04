@@ -1,6 +1,6 @@
 # POPDG
 ![LOGO_final](https://github.com/Luke-Luo1/POPDG/assets/100562982/937c246f-2872-44e7-a8d9-40dd8e6a529f)
-[Paper(arXiv version)](https://arxiv.org/abs/2405.03178)|[Project Page](https://luke-luo1.github.io/POPDG/)
+[Paper(arXiv version)](https://arxiv.org/abs/2405.03178) | [Project Page](https://luke-luo1.github.io/POPDG/)
 # Environment
 ```
 pytorch 1.12.1+cu116
