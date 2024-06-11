@@ -67,11 +67,13 @@ python SMPL-to-FBX/Convert.py --input_dir <path to save_motions> --output_dir <p
 ```
 # Citation
 ```
-@article{luo2024popdg,
-  title={POPDG: Popular 3D Dance Generation with PopDanceSet},
-  author={Luo, Zhenye and Ren, Min and Hu, Xuecai and Huang, Yongzhen and Yao, Li},
-  journal={arXiv preprint arXiv:2405.03178},
-  year={2024}
+@InProceedings{Luo_2024_CVPR,
+    author    = {Luo, Zhenye and Ren, Min and Hu, Xuecai and Huang, Yongzhen and Yao, Li},
+    title     = {POPDG: Popular 3D Dance Generation with PopDanceSet},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {26984-26993}
 }
 ```
 # Acknowledgements
