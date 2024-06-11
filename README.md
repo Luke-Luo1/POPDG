@@ -1,5 +1,4 @@
 # POPDG
-***
 **Official PyTorch implementation of the paper and PopDanceSet**
 ![LOGO_final](https://github.com/Luke-Luo1/POPDG/assets/100562982/937c246f-2872-44e7-a8d9-40dd8e6a529f)
 [Paper(arXiv version)](https://arxiv.org/abs/2405.03178) | [Paper(CVPR version)](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_POPDG_Popular_3D_Dance_Generation_with_PopDanceSet_CVPR_2024_paper.pdf) | [Project Page](https://luke-luo1.github.io/POPDG/)
