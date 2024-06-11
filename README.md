@@ -1,6 +1,10 @@
 # POPDG
+***
+**Official PyTorch implementation of the paper and PopDanceSet**
 ![LOGO_final](https://github.com/Luke-Luo1/POPDG/assets/100562982/937c246f-2872-44e7-a8d9-40dd8e6a529f)
-[Paper(arXiv version)](https://arxiv.org/abs/2405.03178) | [Project Page](https://luke-luo1.github.io/POPDG/)
+[Paper(arXiv version)](https://arxiv.org/abs/2405.03178) | [Paper(CVPR version)](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_POPDG_Popular_3D_Dance_Generation_with_PopDanceSet_CVPR_2024_paper.pdf) | [Project Page](https://luke-luo1.github.io/POPDG/)
+
+**Abstract:** Generating dances that are both lifelike and well-aligned with music continues to be a challenging task in the cross-modal domain. This paper introduces PopDanceSet the first dataset tailored to the preferences of young audiences enabling the generation of aesthetically oriented dances. And it surpasses the AIST++ dataset in music genre diversity and the intricacy and depth of dance movements. Moreover the proposed POPDG model within the iDDPM framework enhances dance diversity and through the Space Augmentation Algorithm strengthens spatial physical connections between human body joints ensuring that increased diversity does not compromise generation quality. A streamlined Alignment Module is also designed to improve the temporal alignment between dance and music. Extensive experiments show that POPDG achieves SOTA results on two datasets. Furthermore the paper also expands on current evaluation metrics. The dataset and code are available at https://github.com/Luke-Luo1/POPDG.
 # Environment
 ```
 pytorch 1.12.1+cu116
